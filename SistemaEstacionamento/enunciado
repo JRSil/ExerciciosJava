@@ -1,0 +1,4 @@
+	10 carros vêm de lugares distintos, distantes de 1 a 3 km, com velocidade 
+entre 10 a 15m por 30ms. Se encontram em um estacionamento com 3 vagas.
+	Levam de 0.5 a 3 seg na vaga e saem. Os que encontrarem vaga, devem parar, 
+se estiver lotado, aguardar em fila por ordem de chegada.
